@@ -11,7 +11,7 @@
 
 <br/>
 
-**Live site → [[ronak904.github.io/portfolio](https://ronak904.github.io/portfolio/)](https://ronak904.github.io/portfolio/)**
+**Live site → [(https://ronak904.github.io/portfolio/)](https://ronak904.github.io/portfolio/)**
 
 </div>
 
